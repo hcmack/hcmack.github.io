@@ -1,5 +1,3 @@
-# Henry Mack's Portfolio
-
 **Email:** henrycmack1@gmail.com  
 **LinkedIn:** [www.linkedin.com/in/henrycmack1](https:www.linkedin.com/in/henrycmack1)
 
