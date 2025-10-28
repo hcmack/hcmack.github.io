@@ -5,3 +5,5 @@ email: henrycmack1@gmail.com
 theme: jekyll-theme-tactile
 url: "https://hcmack.github.io/"
 baseurl: ""  # leave blank if publishing at root, or "/repo-name" if it's a project page
+include:
+  - style.css
