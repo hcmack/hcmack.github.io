@@ -11,18 +11,6 @@ Hi, I’m Henry! I’m a Florida native who loves theme parks, musical theatre, 
 
 ---
 
-## About This Portfolio
-
-This portfolio highlights a selection of projects that represent my journey as an aspiring engineer. Each project showcases how I combine technical expertise with innovation to bring interactive systems to life:
-
-- **Hackathon Project** – Developed a VR Roblox mech game where players defend a city from kaiju attacks, integrating physical feedback via a TENS machine to enhance immersion and realism.
-- **VR + AI Simulation for Emergency Management Training** – Leveraging Unity, generative AI, and VR to create realistic, adaptive training for high-consequence scenarios.  
-- **Robotics** – Designing, programming, and driving competitive VEX robots at the World Championships, mentoring younger teams, and learning the value of teamwork and iteration.
-
-This collection reflects my technical growth and belief that engineering is a tool for storytelling and immersion.
-
----
-
 ## Projects
 
 ### KnightHacks VIII Project: TK vs Lenny – Titan Clash
@@ -72,7 +60,16 @@ Showcased our award-winning robot at the VEX Robotics World Championship, featur
 
 [![Bangarang Worlds Reveal](https://img.youtube.com/vi/_BYX2grJOlo/0.jpg)](https://youtu.be/_BYX2grJOlo?si=RqIfM3l-6XpSRP44)
 
-
 ---
 
-*This portfolio showcases my technical abilities, creativity, and passion for immersive, interactive engineering solutions.*
+## About This Portfolio
+
+This portfolio highlights a selection of projects that represent my journey as an aspiring engineer. Each project showcases how I combine technical expertise with innovation to bring interactive systems to life:
+
+- **Hackathon Project** – Developed a VR Roblox mech game where players defend a city from kaiju attacks, integrating physical feedback via a TENS machine to enhance immersion and realism.
+- **VR + AI Simulation for Emergency Management Training** – Leveraging Unity, generative AI, and VR to create realistic, adaptive training for high-consequence scenarios.  
+- **Robotics** – Designing, programming, and driving competitive VEX robots at the World Championships, mentoring younger teams, and learning the value of teamwork and iteration.
+
+This collection reflects my technical growth and belief that engineering is a tool for storytelling and immersion.
+
+---
