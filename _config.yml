@@ -1,3 +1,7 @@
-title: Henry Mack
-#logo:
+title: Henry Mack's Portfolio
+description: Robotics, Engineering, and Simulation Projects
+author: Henry Mack
+email: henrycmack1@gmail.com
 theme: jekyll-theme-tactile
+url: "https://hcmack.github.io/"
+baseurl: ""  # leave blank if publishing at root, or "/repo-name" if it's a project page
