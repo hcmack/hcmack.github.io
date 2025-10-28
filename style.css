@@ -1,0 +1,29 @@
+/* Make page use full width and align content to the left */
+body {
+  margin: 0;
+  padding: 0 2rem;
+  max-width: none !important;
+  text-align: left !important;
+}
+
+/* Remove tactile's centered wrapper */
+.wrapper {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
+}
+
+/* Ensure inner elements also align left */
+.inner {
+  text-align: left !important;
+  margin: 0 !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Optional: adjust paragraph width for readability */
+p {
+  max-width: 1200px;
+}
