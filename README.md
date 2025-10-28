@@ -13,7 +13,7 @@ Hi, I’m Henry! I’m a Florida native who loves theme parks, musical theatre, 
 
 ### KnightHacks VIII Project: TK vs Lenny – Titan Clash
 
-https://github.com/hcmack/KnightHacksVIII
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hcmack/KnightHacksVIII)
 
 **Inspiration**  
 Inspired by this year’s hackathon theme, we wanted to create a fully immersive VR experience where players feel like they’re inside a giant mech defending a city from kaiju attacks. Combining VR and physical feedback was key, so we designed the game to let users actually feel the hits their mech takes.
@@ -35,7 +35,7 @@ Originally, we planned to build in Unity, but Roblox allowed us to prototype qui
 
 ### VR + AI Emergency Response Simulation
 
-https://github.com/hcmack/METIL
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hcmack/METIL)
 
 **VH-CRIT: Virtual High-Consequence Readiness Incident Training**  
 
