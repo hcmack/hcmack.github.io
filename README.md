@@ -14,10 +14,10 @@ Hi, I’m Henry! I’m a Florida native who loves theme parks, musical theatre, 
 ## About This Portfolio
 
 This portfolio highlights a selection of projects that represent my journey as an aspiring engineer. Each project showcases how I combine technical expertise with innovation to bring interactive systems to life:
- 
+
+- **Hackathon Project** – Developed a VR Roblox mech game where players defend a city from kaiju attacks, integrating physical feedback via a TENS machine to enhance immersion and realism.
 - **VR + AI Simulation for Emergency Management Training** – Leveraging Unity, generative AI, and VR to create realistic, adaptive training for high-consequence scenarios.  
 - **Robotics** – Designing, programming, and driving competitive VEX robots at the World Championships, mentoring younger teams, and learning the value of teamwork and iteration.
-- **Hackathon Project** – Developed a VR Roblox mech game where players defend a city from kaiju attacks, integrating physical feedback via a TENS machine to enhance immersion and realism.
 
 This collection reflects my technical growth and belief that engineering is a tool for storytelling and immersion.
 
@@ -65,10 +65,13 @@ Originally, we planned to build in Unity, but Roblox allowed us to prototype qui
 - Managed social media, including Instagram and robot reveal videos.  
 - Achieved quarterfinals at Worlds and won the Design award (only 8 of 480 teams receive this).  
 
-*Media:*  
-![Competition Robot CAD](link-to-your-image)  
-![Team with Robot](link-to-your-image)  
-[Robot Reveal Video](https://www.youtube.com/watch?v=_BYX2GRJOlo)  
+![Robotics Project](Robotics.png)
+
+**5956F Bangarang – VEX Robotics World Championship Reveal**  
+Showcased our award-winning robot at the VEX Robotics World Championship, featuring innovative design and performance.
+
+[![Bangarang Worlds Reveal](https://img.youtube.com/vi/_BYX2grJOlo/0.jpg)](https://youtu.be/_BYX2grJOlo?si=RqIfM3l-6XpSRP44)
+
 
 ---
 
