@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/henry/Documents/Codex/2026-07-15/i-n/outputs/portfolio-site/projects/**)",
+      "Read(//c/Users/henry/Documents/Codex/2026-07-15/i-n/outputs/portfolio-site/assets/**)",
+      "Bash(python -m http.server 8099)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8099/index.html)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8099/projects/vr-haptic-glove.html)"
+    ]
+  }
+}
